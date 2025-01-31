@@ -94,5 +94,8 @@ footer {
 footer p {
     font-size: 20px;
     text-align: right;
-    padding:15px 15px 15px;
+    padding: 0;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
